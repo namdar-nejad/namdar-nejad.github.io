@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Namdar Nejad
-          subtitle: "I'm a currently working as quant at Man Numeric, studied CS and Math at McGill. In my free time I enjoy working on machine learning side projects and thinking about prediction markets. If you'd like to chat or connect, feel free to reach out or schedule a time below!"
+          subtitle: "I'm a currently working as quant at Man Numeric, previously I studied CS and Math at McGill. In my free time I enjoy working on machine learning side projects and thinking about prediction markets. If you'd like to chat or connect, feel free to reach out or schedule a time below!"
           imageUrl: "website_pic.jpeg"
           imageWidth: 150
           imageHeight: 188
